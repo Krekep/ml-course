@@ -9,6 +9,10 @@
 - [Лекционные материалы](https://github.com/rustam-azimov/ml-course/tree/main/lectures)
 - [Практические материалы](https://github.com/rustam-azimov/ml-course/tree/main/practice)
 
+## Ноутбуки с выполненными заданиями
+- [Задача 4](https://colab.research.google.com/drive/1cph1IwEGTSIiNWrMnlU60bJh4t0JqpHL?usp=sharing)
+
+
 ## Оценивание домашних работ
 
 - Если ваша работа **зачтена** _до_ **дедлайна**, то вы получаете **все заработанные баллы за домашнюю работу**.
