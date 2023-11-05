@@ -11,6 +11,7 @@
 
 ## Ноутбуки с выполненными заданиями
 - [Задача 1](https://colab.research.google.com/drive/1hNKkh2uS6nVocA4H-Up64vnsZ5pv8mRU?usp=sharing)
+- [Задача 2](https://colab.research.google.com/drive/1-80UYWlfWaYwxsGgTVnkHN-K1zLYQDjw?usp=sharing)
 - [Задача 4](https://colab.research.google.com/drive/1cph1IwEGTSIiNWrMnlU60bJh4t0JqpHL?usp=sharing)
 - [Задача 5](https://colab.research.google.com/drive/1FNaxeX6F2eoefp_GCTGTH20wlBw88kTP?usp=sharing)
 
